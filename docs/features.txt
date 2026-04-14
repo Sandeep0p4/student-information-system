@@ -1,0 +1,52 @@
+PROJECT FEATURES
+
+1. STUDENT WEB PORTAL FEATURES
+
+* Student Login System
+  Students can log in using their email and password securely.
+
+* View Profile
+  Students can view their personal details such as name and email.
+
+* View Marks
+  Students can check their subject-wise marks in a structured format.
+
+* View Attendance
+  Students can see their attendance details including total classes, attended classes, and percentage.
+
+2. ADMIN DESKTOP APPLICATION FEATURES
+
+* Add Student
+  Admin can add new student records into the system.
+
+* Update Student
+  Admin can update existing student details.
+
+* Delete Student
+  Admin can remove student records from the system.
+
+* View Students
+  Admin can view all student records in a table format.
+
+* Manage Marks
+  Admin can add or update marks for students.
+
+* Manage Attendance
+  Admin can manage attendance records of students.
+
+3. SYSTEM FEATURES
+
+* Database Integration
+  The system is connected to a relational database for storing and retrieving data.
+
+* User Authentication
+  Secure login system for students.
+
+* MVC Architecture
+  The system follows proper layered architecture (Model, View, Controller).
+
+* Error Handling
+  Basic validation and error handling are implemented.
+
+* Clean UI
+  Simple and user-friendly interface for both student and admin.

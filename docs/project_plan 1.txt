@@ -1,0 +1,17 @@
+📄 Project Title
+
+Student Information System with Web Portal and Desktop Admin
+
+📄 Objective
+
+To develop a system where students can view their academic details and admin can manage student data efficiently.
+
+📄 Modules
+Student Web Portal
+Admin Desktop Application
+Database System
+📄 Technologies
+Java (Spring Boot)
+JavaFX
+MySQL
+HTML, CSS
